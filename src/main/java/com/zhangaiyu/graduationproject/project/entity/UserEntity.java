@@ -22,6 +22,9 @@ public class UserEntity implements Serializable {
     @Column(name = "t_address")
     private String address;
 
+    @Column(name = "t_pwd")
+    private String pwd;
+
     public Long getId() {
         return Id;
     }
@@ -54,13 +57,11 @@ public class UserEntity implements Serializable {
         this.address = address;
     }
 
-    @Override
-    public String toString() {
-        return "UserEntity{" +
-                "Id=" + Id +
-                ", name='" + name + '\'' +
-                ", age=" + age +
-                ", address='" + address + '\'' +
-                '}';
+    public String getPwd() {
+        return pwd;
+    }
+
+    public void setPwd(String pwd) {
+        this.pwd = pwd;
     }
 }
