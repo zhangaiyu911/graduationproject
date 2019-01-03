@@ -8,9 +8,9 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>毕业设计</title>
+    <title>主页</title>
 </head>
 <body>
-    我是张爱宇的毕业设计
+    您已经成功访问到主页！
 </body>
 </html>
