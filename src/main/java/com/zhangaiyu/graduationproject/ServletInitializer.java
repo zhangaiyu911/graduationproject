@@ -1,3 +1,4 @@
+/*
 package com.zhangaiyu.graduationproject;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
@@ -12,3 +13,4 @@ public class ServletInitializer extends SpringBootServletInitializer {
 
 }
 
+*/
