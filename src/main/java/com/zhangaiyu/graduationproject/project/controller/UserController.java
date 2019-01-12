@@ -1,3 +1,4 @@
+/*
 package com.zhangaiyu.graduationproject.project.controller;
 
 import com.zhangaiyu.graduationproject.project.entity.UserEntity;
@@ -17,20 +18,24 @@ public class UserController {
     @Autowired
     private UserJPA userJPA;
 
-    /**
+    */
+/**
      * 查询用户列表方法
      * @return
-     */
+     *//*
+
     @RequestMapping(value = "/list",method = RequestMethod.GET)
     public List<UserEntity> list(){
         return userJPA.findAll();
     }
 
-    /**
+    */
+/**
      * 添加,更新用户方法
      * @param entity
      * @return
-     */
+     *//*
+
     @RequestMapping(value = "/save",method = RequestMethod.GET)
     public UserEntity save(UserEntity entity){
         return userJPA.save(entity);
@@ -43,3 +48,4 @@ public class UserController {
         return userJPA.findAll();
     }
 }
+*/
