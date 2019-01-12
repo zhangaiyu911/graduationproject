@@ -1,3 +1,4 @@
+/*
 package com.zhangaiyu.graduationproject;
 
 import com.zhangaiyu.graduationproject.project.MailContentTypeEnum;
@@ -13,9 +14,10 @@ public class TestMail {
                 .contentType(MailContentTypeEnum.TEXT)
                 .targets(new ArrayList<String>(){
                     {
-                        add("885721977@qq.com");
+                        add("11114124@qq.com");
                     }
                 })
                 .send();
     }
 }
+*/
