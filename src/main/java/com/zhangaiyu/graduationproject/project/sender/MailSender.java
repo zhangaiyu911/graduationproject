@@ -1,3 +1,4 @@
+/*
 package com.zhangaiyu.graduationproject.project.sender;
 
 import com.zhangaiyu.graduationproject.project.MailContentTypeEnum;
@@ -15,21 +16,25 @@ public class MailSender {
     //邮件实体
     private static MailEntity mail = new MailEntity();
 
-    /**
+    */
+/**
      * 设置邮件标题
      * @param title
      * @return
-     */
+     *//*
+
     public MailSender title(String title){
         mail.setTitle(title);
         return this;
     }
 
-    /**
+    */
+/**
      * 设置邮件内容
      * @param content
      * @return
-     */
+     *//*
+
     public MailSender content(String content){
 
         mail.setContent(content);
@@ -37,22 +42,26 @@ public class MailSender {
     }
 
 
-    /**
+    */
+/**
      * 设置邮件格式
      * @param typeEnum
      * @return
-     */
+     *//*
+
     public MailSender contentType(MailContentTypeEnum typeEnum){
         mail.setContentType(typeEnum.getValue());
         return this;
     }
 
 
-    /**
+    */
+/**
      * 设置请求目标邮件地址
      * @param targets
      * @return
-     */
+     *//*
+
     public MailSender targets(List<String> targets){
         mail.setList(targets);
         return this;
@@ -141,3 +150,4 @@ public class MailSender {
 
 
 }
+*/
