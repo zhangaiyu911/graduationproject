@@ -1,3 +1,4 @@
+/*
 package com.zhangaiyu.graduationproject.project.entity;
 
 
@@ -65,3 +66,4 @@ public class UserEntity implements Serializable {
         this.pwd = pwd;
     }
 }
+*/
