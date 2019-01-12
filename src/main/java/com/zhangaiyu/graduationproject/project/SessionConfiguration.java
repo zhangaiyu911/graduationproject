@@ -1,3 +1,4 @@
+/*
 package com.zhangaiyu.graduationproject.project;
 
 import com.zhangaiyu.graduationproject.project.interceptor.SessionInterceptor;
@@ -13,3 +14,4 @@ public class SessionConfiguration extends WebMvcConfigurerAdapter {
         registry.addInterceptor(new SessionInterceptor()).addPathPatterns("/**");
     }
 }
+*/
