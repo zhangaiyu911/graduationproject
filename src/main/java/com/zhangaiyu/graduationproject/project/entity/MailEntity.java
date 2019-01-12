@@ -1,3 +1,4 @@
+/*
 package com.zhangaiyu.graduationproject.project.entity;
 
 import java.io.Serializable;
@@ -87,3 +88,4 @@ public class MailEntity implements Serializable {
         this.list = list;
     }
 }
+*/
