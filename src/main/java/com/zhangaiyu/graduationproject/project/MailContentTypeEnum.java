@@ -1,3 +1,4 @@
+/*
 package com.zhangaiyu.graduationproject.project;
 
 public enum MailContentTypeEnum {
@@ -16,3 +17,4 @@ public enum MailContentTypeEnum {
 
 
 }
+*/
