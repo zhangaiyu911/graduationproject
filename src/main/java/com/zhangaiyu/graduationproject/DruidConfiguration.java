@@ -1,3 +1,4 @@
+/*
 package com.zhangaiyu.graduationproject;
 
 import com.alibaba.druid.support.http.StatViewServlet;
@@ -38,3 +39,4 @@ public class DruidConfiguration {
         return filterRegistrationBean;
     }
 }
+*/
