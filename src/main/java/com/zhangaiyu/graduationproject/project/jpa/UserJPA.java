@@ -1,3 +1,4 @@
+/*
 package com.zhangaiyu.graduationproject.project.jpa;
 
 import com.zhangaiyu.graduationproject.project.entity.UserEntity;
@@ -11,3 +12,4 @@ public interface UserJPA extends
         JpaSpecificationExecutor<UserEntity>,//SpringDataJPA提供的复杂查询接口
         Serializable { //序列化接口
 }
+*/
