@@ -1,3 +1,4 @@
+/*
 package com.zhangaiyu.graduationproject;
 
 import com.alibaba.fastjson.serializer.SerializerFeature;
@@ -30,3 +31,4 @@ public class FastJsonConfiguration extends WebMvcConfigurerAdapter {
         converters.add(fastConverter);
     }
 }
+*/
