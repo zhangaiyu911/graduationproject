@@ -1,3 +1,4 @@
+/*
 package com.zhangaiyu.graduationproject.project.controller;
 
 import org.springframework.stereotype.Controller;
@@ -12,3 +13,4 @@ public class HelloWorldController {
         return "index";
     }
 }
+*/
